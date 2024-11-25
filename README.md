@@ -6,8 +6,8 @@ The Employee Retention project aims to leverage data-driven insights to improve 
 - Dataset Name: HR_1 & HR_2
 - Dataset Type: Excel Data
 - Dataset Size: 50k records each
--<a href="https://github.com/akankshashinde-14/Project/blob/main/HR_1.xlsx">Dataset1<a>
--<a href="https://github.com/akankshashinde-14/Project/blob/main/HR_2.xlsx">Dataset2<a>
+- <a href="https://github.com/akankshashinde-14/Project/blob/main/HR_1.xlsx">Dataset1<a>
+- <a href="https://github.com/akankshashinde-14/Project/blob/main/HR_2.xlsx">Dataset2<a>
 
 ## Question (KPIs)
 - Average Attrition rate for all Departments
@@ -20,7 +20,7 @@ The Employee Retention project aims to leverage data-driven insights to improve 
 ## Dashboard Link
 - Dashboard Interaction <a href="https://github.com/akankshashinde-14/Project/blob/main/Image1.jpg">Visit Dashboard
 
-## Process:
+## Process
 - Verify data for any missing values and anomalies and out the same.
 - Make sure data is consistent and clean with respect to the data type, data format and values used.
 -	Created pivot tables according to quastions asked.
@@ -29,3 +29,5 @@ The Employee Retention project aims to leverage data-driven insights to improve 
 ## Dashboard
 ![image](https://github.com/user-attachments/assets/2c6ab52b-0be6-4818-bab7-a64504a89b6e)
 
+## Final Conclusion
+- The HR Analytics dashboard offers valuable insights into employee-related metrics, enabling HR professionals and management to make data-driven decisions regarding employee retention, satisfaction, and organizational strategies.
