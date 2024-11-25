@@ -19,3 +19,11 @@ The Employee Retention project aims to leverage data-driven insights to improve 
 
 ## Dashboard Link
 - Dashboard Interaction <a href="https://github.com/akankshashinde-14/Project/blob/main/Image1.jpg">Visit Dashboard
+
+## Process:
+- Verify data for any missing values and anomalies and out the same.
+- Make sure data is consistent and clean with respect to the data type, data format and values used.
+-	Created pivot tables according to quastions asked.
+-	Merge all pivot tables into one dashboard and apply slicer to make dynamic
+
+## Dashboard
