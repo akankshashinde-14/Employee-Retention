@@ -27,4 +27,5 @@ The Employee Retention project aims to leverage data-driven insights to improve 
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
 ## Dashboard
-![Image1](https://github.com/user-attachments/assets/400f93b7-c9bc-4014-b772-403c599e2bf9)
+![image](https://github.com/user-attachments/assets/2c6ab52b-0be6-4818-bab7-a64504a89b6e)
+
