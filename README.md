@@ -3,11 +3,8 @@
 The Employee Retention project aims to leverage data-driven insights to improve work force management and enhance employee performance across the organisation. By analysing various HR metrics, we seek to identify trends, optimize recruitment process, and foster employee engagement and retention.
 
 ## Dataset Used
-- Dataset Name: HR_1 & HR_2
-- Dataset Type: Excel Data
-- Dataset Size: 50k records each
-- <a href="https://github.com/akankshashinde-14/Project/blob/main/HR_1.xlsx">Dataset1<a>
-- <a href="https://github.com/akankshashinde-14/Project/blob/main/HR_2.xlsx">Dataset2<a>
+- <a href="https://github.com/akankshashinde-14/Project/blob/main/Employee%20Retention.xlsx">Dataset<a>
+
 
 ## Question (KPIs)
 - Average Attrition rate for all Departments
